@@ -5,7 +5,7 @@
 - other than that its mostly personal projects for practice
 
 
-### Languages/markup/framesworks/whatever languages i know 
+### Languages/markup/framesworks/whatever i know 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
