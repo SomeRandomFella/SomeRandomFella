@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # Projects I am currently working on..
-- A mini live chat app basically a discord clone but worse
-- other than that its mostly personal projects for practice
+- i cant think of any project ideas lol
 
 
 ### Languages/markup/framesworks/whatever i know 
