@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # Projects I am currently working on..
-- i cant think of any project ideas lol
-
+- sfools
 
 ### Languages/markup/framesworks/whatever i know 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
