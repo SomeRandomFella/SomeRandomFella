@@ -1,4 +1,4 @@
-# Hey, I'm SomeRandomFella 👋
+# Hey, I'm plankton 👋
 
 I'm a developer interested in **web development, cybersecurity** and anything coding related.
 
