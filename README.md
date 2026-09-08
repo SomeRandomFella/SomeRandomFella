@@ -27,6 +27,7 @@ I'm a developer interested in **web development, cybersecurity** and anything co
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,unity,linux,git,postgres" />
 </p>
+
 ## stats
 
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=SomeRandomFella&theme=pine-tree)
