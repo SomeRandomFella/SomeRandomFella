@@ -1,19 +1,38 @@
-## Hi there 👋
+# Hey, I'm SomeRandomFella 👋
 
-# Projects I am currently working on..
-- sfools
+I'm a developer interested in **web development, cybersecurity** and anything coding related.
 
-### Languages/markup/framesworks/whatever i know 
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
+## Currently Working On
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandomFella&layout=compact&theme=radical)
+* **SFools** — my current main project
+* learning networking and getting into cyber security ❤️
+* learning robotics stuff
 
-### Languages I am currently learning: 
--not a language but im trying to learn the backend side of things
+## Languages & everything else
 
-## How to reach me 
--my discord sexyplankton.com 
-or my email boblyatfunny9212@gmail.com (long response time)
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cs,java,cpp" />
+</p>
+
+### Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react," />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,unity,linux,git,postgres" />
+</p>
+## stats
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=SomeRandomFella&theme=pine-tree)
+## contact
+
+* discord: **sexyplankton.com**
+* email: **[boblyatfunny9212@gmail.com](mailto:boblyatfunny9212@gmail.com)**
+
+> email responses take some time.
